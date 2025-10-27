@@ -23,4 +23,4 @@ team
 Github 
 Email
 
-My Favourite Project
+My favourite project
